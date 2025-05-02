@@ -1,0 +1,7 @@
+C:\Users\black\OneDrive\Desktop\Technical Programming\Question One\Question One\bin\Debug\Question One.exe.config
+C:\Users\black\OneDrive\Desktop\Technical Programming\Question One\Question One\bin\Debug\Question One.exe
+C:\Users\black\OneDrive\Desktop\Technical Programming\Question One\Question One\bin\Debug\Question One.pdb
+C:\Users\black\OneDrive\Desktop\Technical Programming\Question One\Question One\obj\Debug\Question One.csproj.AssemblyReference.cache
+C:\Users\black\OneDrive\Desktop\Technical Programming\Question One\Question One\obj\Debug\Question One.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Desktop\Technical Programming\Question One\Question One\obj\Debug\Question One.exe
+C:\Users\black\OneDrive\Desktop\Technical Programming\Question One\Question One\obj\Debug\Question One.pdb

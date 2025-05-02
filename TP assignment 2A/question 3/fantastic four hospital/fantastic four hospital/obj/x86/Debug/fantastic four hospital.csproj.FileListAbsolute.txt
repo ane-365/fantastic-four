@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\question 3\fantastic four hospital\fantastic four hospital\bin\Debug\fantastic four hospital.exe
+C:\Users\Lenovo\Desktop\question 3\fantastic four hospital\fantastic four hospital\bin\Debug\fantastic four hospital.pdb
+C:\Users\Lenovo\Desktop\question 3\fantastic four hospital\fantastic four hospital\obj\x86\Debug\fantastic four hospital.exe
+C:\Users\Lenovo\Desktop\question 3\fantastic four hospital\fantastic four hospital\obj\x86\Debug\fantastic four hospital.pdb
+C:\Users\Lenovo\Desktop\question 3\fantastic four hospital\fantastic four hospital\obj\x86\Debug\fantastic four hospital.csprojResolveAssemblyReference.cache

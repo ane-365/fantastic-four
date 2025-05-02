@@ -1,0 +1,11 @@
+C:\Users\themb_uk9jttc\source\repos\Question2\bin\Debug\netcoreapp2.1\Question2.deps.json
+C:\Users\themb_uk9jttc\source\repos\Question2\bin\Debug\netcoreapp2.1\Question2.runtimeconfig.json
+C:\Users\themb_uk9jttc\source\repos\Question2\bin\Debug\netcoreapp2.1\Question2.runtimeconfig.dev.json
+C:\Users\themb_uk9jttc\source\repos\Question2\bin\Debug\netcoreapp2.1\Question2.dll
+C:\Users\themb_uk9jttc\source\repos\Question2\bin\Debug\netcoreapp2.1\Question2.pdb
+C:\Users\themb_uk9jttc\source\repos\Question2\obj\Debug\netcoreapp2.1\Question2.csprojAssemblyReference.cache
+C:\Users\themb_uk9jttc\source\repos\Question2\obj\Debug\netcoreapp2.1\Question2.csproj.CoreCompileInputs.cache
+C:\Users\themb_uk9jttc\source\repos\Question2\obj\Debug\netcoreapp2.1\Question2.AssemblyInfoInputs.cache
+C:\Users\themb_uk9jttc\source\repos\Question2\obj\Debug\netcoreapp2.1\Question2.AssemblyInfo.cs
+C:\Users\themb_uk9jttc\source\repos\Question2\obj\Debug\netcoreapp2.1\Question2.dll
+C:\Users\themb_uk9jttc\source\repos\Question2\obj\Debug\netcoreapp2.1\Question2.pdb
